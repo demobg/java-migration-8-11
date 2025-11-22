@@ -89,3 +89,7 @@ http://localhost:8989/bank-api/h2-console/
 
 * **Shyam Bathina**
 
+## Verification
+
+This repository has been verified for proper setup and CI/CD workflow.
+
